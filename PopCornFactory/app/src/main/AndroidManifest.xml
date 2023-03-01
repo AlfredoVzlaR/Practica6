@@ -15,7 +15,7 @@
             android:name=".Catalogo"
             android:exported="false" />
         <activity
-            android:name=".detalle_pelicula"
+            android:name=".Detalle_pelicula"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
